@@ -2,12 +2,8 @@
 
 Team Members:
 
-1. Pritika Purushothaman - 002796817
 2. Evita Alice Paul - 002796656
 3. Harshan Goodwin Hector - 002708280
-4. Saranya Krishnamurthy Sankar - 00277431
-5. Chaman Betrabet - 002784662
-
 
 Idea Description:
 
