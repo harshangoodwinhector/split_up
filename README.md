@@ -2,8 +2,8 @@
 
 Team Members:
 
-2. Evita Alice Paul - 002796656
-3. Harshan Goodwin Hector - 002708280
+1. Evita Alice Paul - 002796656
+2. Harshan Goodwin Hector - 002708280
 
 Idea Description:
 
