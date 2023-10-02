@@ -1,0 +1,58 @@
+.registertxt{
+    color: #253053;
+    margin-top: 20px;
+  }
+  
+  .btn{
+    background-color: #253053;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    padding: 10px 20px;
+    transition: all 0.3s ease-in-out;
+  }
+  
+  .btn:hover{
+    background-color: #1d2c4f;
+  }
+  
+  .container p {
+    font-size: 20px;
+    font-family: 'Open Sans', sans-serif;
+  }
+  
+  .lottie{
+    height: 600px;
+  }
+  
+  .container_register{
+    height: 100vh;
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    background-color: #f2f2f2;
+  }
+  
+  .container_register input{
+    background-color: #fff;
+    border: none;
+    border-bottom: 1px solid rgb(106, 105, 105, 0.5);
+    color: #253053;
+    padding: 10px;
+    font-family: 'Open Sans', sans-serif;
+  }
+  
+  label{
+    color: #253053;
+    font-family: 'Open Sans', sans-serif;
+  }
+  
+  .icon{
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    left: 10px;
+    color: #253053;
+  }
+  
+  
